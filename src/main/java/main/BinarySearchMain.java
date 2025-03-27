@@ -5,7 +5,7 @@ import algorithm.SortDesc;
 
 import java.util.Arrays;
 
-public class Main {
+public class BinarySearchMain {
     private static final SortDesc sortArray = new SortDesc();
     private static final BinarySearch search = new BinarySearch();
 
