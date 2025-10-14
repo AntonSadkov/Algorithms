@@ -1,7 +1,7 @@
 package algorithm;
 
 public class BinarySearch {
-    private final SortDesc sort = new SortDesc();
+    private final Sort sort = new Sort();
 
     public void outputSearch(int[] array, int target) {
         int result = binarySearch(array, target);

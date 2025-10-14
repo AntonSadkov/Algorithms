@@ -1,12 +1,12 @@
 package main;
 
 import algorithm.BinarySearch;
-import algorithm.SortDesc;
+import algorithm.Sort;
 
 import java.util.Arrays;
 
 public class BinarySearchMain {
-    private static final SortDesc sortArray = new SortDesc();
+    private static final Sort sortArray = new Sort();
     private static final BinarySearch search = new BinarySearch();
 
     public static void main(String[] args) {
