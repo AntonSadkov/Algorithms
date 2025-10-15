@@ -4,6 +4,13 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+/**
+ * Дан массив целых чисел nums и целое число target, вернуть индексы двух чисел так,
+ * чтобы их сумма давала target.
+ * Вы можете предположить, что каждый вход будет иметь ровно одно решение,
+ * и вы не можете использовать один и тот же элемент дважды.
+ * Вы можете возвращать ответ в любом порядке.
+ */
 
 public class TwoSumTest {
 
